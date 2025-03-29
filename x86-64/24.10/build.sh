@@ -35,6 +35,7 @@ PACKAGES="$PACKAGES luci-app-openclash"
 PACKAGES="$PACKAGES luci-i18n-passwall-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-ddns-go-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-upnp-zh-cn"
+PACKAGES="$PACKAGES luci-i18n-eqos-zh-cn"
 PACKAGES="$PACKAGES openssh-sftp-server"
 
 # 判断是否需要编译 Docker 插件
