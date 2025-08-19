@@ -1,5 +1,5 @@
 
-name: build-x86-64-immortalwrt-24.10.2
+name: build-x86-64-immortalwrt-master
 
 on:
   workflow_dispatch:
@@ -105,3 +105,4 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
