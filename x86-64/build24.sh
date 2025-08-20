@@ -51,6 +51,7 @@ PACKAGES="$PACKAGES luci-theme-argon"
 #24.10
 PACKAGES="$PACKAGES luci-i18n-package-manager-zh-cn"
 PACKAGES="$PACKAGES luci-app-openclash"
+PACKAGES="$PACKAGES luci-i18n-ddns-go"
 PACKAGES="$PACKAGES openssh-sftp-server"
 # ======== shell/custom-packages.sh =======
 # 合并imm仓库以外的第三方插件
